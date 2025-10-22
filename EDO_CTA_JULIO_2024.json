@@ -1,0 +1,712 @@
+[
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:LAVV931128DW1 Ref. 7843",
+        "CARGOS": 5857.28,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:ODM950324V2A Ref. 6457 ",
+        "CARGOS": 259.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:ODM950324V2A Ref. 6462",
+        "CARGOS": 249.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:ODM950324V2A Ref. 6463",
+        "CARGOS": 410.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:ODM950324V2A Ref. 6455",
+        "CARGOS": 5526.22,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:ODM950324V2A Ref. 6459",
+        "CARGOS": 259.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:MIL120908JD6 Ref. 6454",
+        "CARGOS": 3712.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:CTM1806269AA Ref. 6487",
+        "CARGOS": 23883.82,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:RIMR460917461 Ref. 6439",
+        "CARGOS": 6932.25,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:BDC2104147L2 Ref. 6486",
+        "CARGOS": 58000.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C47 COM CHQ LIBRADOS PAGADOS DEL 01JUN24 AL 30JUN24",
+        "CARGOS": 3366.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C48 IVA COM CHEQUES LIBRADOS 16%",
+        "CARGOS": 538.56,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. PAGO EN EFECTIVO Ref. 6485",
+        "CARGOS": 15323.27,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. PAGO EN EFECTIVO Ref. 6484",
+        "CARGOS": 17268.48,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. PAGO EN EFECTIVO Ref. 6478",
+        "CARGOS": 1200.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "01/JUL",
+        "FECHA_LIQ": "01/JUL",
+        "COD_DESCRIPCION": "01/JUL 01/JUL C03 CHEQUE PAGADO NO. PAGO EN EFECTIVO Ref. 6479",
+        "CARGOS": 1331.0,
+        "ABONOS": 0,
+        "OPERACION": 1654734.75,
+        "LIQUIDACION": 1654734.75,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "02/JUL",
+        "FECHA_LIQ": "02/JUL",
+        "COD_DESCRIPCION": "02/JUL 02/JUL N06 PAGO CUENTA DE TERCERO BNET 1583282430 7605 Ref. 8912054787",
+        "CARGOS": 0,
+        "ABONOS": 13.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "02/JUL",
+        "FECHA_LIQ": "02/JUL",
+        "COD_DESCRIPCION": "02/JUL 02/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:AEM120910 -4A9 Ref. 6466",
+        "CARGOS": 73950.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "02/JUL",
+        "FECHA_LIQ": "02/JUL",
+        "COD_DESCRIPCION": "02/JUL 02/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:AEM120910 -4A9 Ref. 6468",
+        "CARGOS": 73950.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "02/JUL",
+        "FECHA_LIQ": "02/JUL",
+        "COD_DESCRIPCION": "02/JUL 02/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:AEM120910 -4A9 Ref. 6467",
+        "CARGOS": 73950.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "02/JUL",
+        "FECHA_LIQ": "02/JUL",
+        "COD_DESCRIPCION": "02/JUL 02/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:AEM120910 -4A9 Ref. 6465",
+        "CARGOS": 73950.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "02/JUL",
+        "FECHA_LIQ": "02/JUL",
+        "COD_DESCRIPCION": "02/JUL 02/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:PIM800624 -IH8 Ref. 6489",
+        "CARGOS": 3527.92,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "02/JUL",
+        "FECHA_LIQ": "02/JUL",
+        "COD_DESCRIPCION": "02/JUL 02/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:REAR930427-2B5 Ref. 6483",
+        "CARGOS": 612.0,
+        "ABONOS": 0,
+        "OPERACION": 1354807.83,
+        "LIQUIDACION": 1354807.83,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "03/JUL",
+        "FECHA_LIQ": "03/JUL",
+        "COD_DESCRIPCION": "03/JUL 03/JUL T17 SPEI ENVIADO BANAMEX 003072428CDVALLES66 Ref. 0045370724 002 00002180701038482273 BNET01002407030045370724 TECNOLOGICO NACIONAL DE MEXICO",
+        "CARGOS": 154123.24,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "03/JUL",
+        "FECHA_LIQ": "03/JUL",
+        "COD_DESCRIPCION": "03/JUL 03/JUL N06 PAGO CUENTA DE TERCERO  BNET 1552713052 dev 7726 Ref. 9003876385",
+        "CARGOS": 0,
+        "ABONOS": 717.0,
+        "OPERACION": 1201401.59,
+        "LIQUIDACION": 1201401.59,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "04/JUL",
+        "FECHA_LIQ": "04/JUL",
+        "COD_DESCRIPCION": "04/JUL 04/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:ETI040325NH0 Ref. 6469",
+        "CARGOS": 20965.35,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "04/JUL",
+        "FECHA_LIQ": "04/JUL",
+        "COD_DESCRIPCION": "04/JUL 04/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:MAQA510124PA4 Ref. 6482",
+        "CARGOS": 869.82,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "04/JUL",
+        "FECHA_LIQ": "04/JUL",
+        "COD_DESCRIPCION": "04/JUL 04/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:ESG9506281NA Ref. 6470",
+        "CARGOS": 6860.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "04/JUL",
+        "FECHA_LIQ": "04/JUL",
+        "COD_DESCRIPCION": "04/JUL 04/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:ESG9506281NA Ref. 6488",
+        "CARGOS": 9513.33,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "04/JUL",
+        "FECHA_LIQ": "04/JUL",
+        "COD_DESCRIPCION": "04/JUL 04/JUL S39 SERV BANCA INTERNET Ref. SERV BCA INTERN",
+        "CARGOS": 250.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "04/JUL",
+        "FECHA_LIQ": "04/JUL",
+        "COD_DESCRIPCION": "04/JUL 04/JUL S39 SERV BANCA INTERNET Ref. OPS SERV BCA IN",
+        "CARGOS": 10.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "04/JUL",
+        "FECHA_LIQ": "04/JUL",
+        "COD_DESCRIPCION": "04/JUL 04/JUL S40 IVA COM SERV BCA INTERNET Ref. IVA COM SERV BC",
+        "CARGOS": 41.6,
+        "ABONOS": 0,
+        "OPERACION": 1162891.49,
+        "LIQUIDACION": 1162891.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "06/JUL",
+        "FECHA_LIQ": "08/JUL",
+        "COD_DESCRIPCION": "06/JUL 08/JUL N06 PAGO CUENTA DE TERCERO BNET 1510899453 Dev6480 Ref. 9239291645",
+        "CARGOS": 0,
+        "ABONOS": 480.0,
+        "OPERACION": 1163371.49,
+        "LIQUIDACION": 1162891.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "08/JUL",
+        "FECHA_LIQ": "08/JUL",
+        "COD_DESCRIPCION": "08/JUL 08/JUL AA7 DEPOSITO EFECTIVO PRACTIC COLEGIATURA A612 FOLIO:5194 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1165171.49,
+        "LIQUIDACION": 1165171.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "09/JUL",
+        "FECHA_LIQ": "09/JUL",
+        "COD_DESCRIPCION": "09/JUL 09/JUL AA7 DEPOSITO EFECTIVO PRACTIC FICHA TEC 4543 FOLIO:8311 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1166971.49,
+        "LIQUIDACION": 1166971.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "10/JUL",
+        "FECHA_LIQ": "10/JUL",
+        "COD_DESCRIPCION": "10/JUL 10/JUL C02 DEPOSITO EN EFECTIVO Ref. 6804900003551",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1168771.49,
+        "LIQUIDACION": 1168771.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "11/JUL",
+        "FECHA_LIQ": "11/JUL",
+        "COD_DESCRIPCION": "11/JUL 11/JUL AA7 DEPOSITO EFECTIVO PRACTIC 88 5507 FOLIO:8560 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1170571.49,
+        "LIQUIDACION": 1170571.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "12/JUL",
+        "FECHA_LIQ": "12/JUL",
+        "COD_DESCRIPCION": "12/JUL 12/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3555 6053 FOLIO:5764 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1172371.49,
+        "LIQUIDACION": 1172371.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "15/JUL",
+        "FECHA_LIQ": "15/JUL",
+        "COD_DESCRIPCION": "15/JUL 15/JUL AA7 DEPOSITO EFECTIVO PRACTIC ITCV20690507 4543 FOLIO:2537 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 300.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "20690507"
+    },
+    {
+        "FECHA_OPER": "15/JUL",
+        "FECHA_LIQ": "15/JUL",
+        "COD_DESCRIPCION": "15/JUL 15/JUL AA7 DEPOSITO EFECTIVO PRACTIC ITCV20690545 4543 FOLIO:2540 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 300.0,
+        "OPERACION": 1172971.49,
+        "LIQUIDACION": 1172971.49,
+        "NUMERO_CONTROL": "20690545"
+    },
+    {
+        "FECHA_OPER": "17/JUL",
+        "FECHA_LIQ": "17/JUL",
+        "COD_DESCRIPCION": "17/JUL 17/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3553 6052 FOLIO:1089 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1174771.49,
+        "LIQUIDACION": 1174771.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "18/JUL",
+        "FECHA_LIQ": "18/JUL",
+        "COD_DESCRIPCION": "18/JUL 18/JUL C02 DEPOSITO EN EFECTIVO Ref. 68055",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1176571.49,
+        "LIQUIDACION": 1176571.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "19/JUL",
+        "FECHA_LIQ": "19/JUL",
+        "COD_DESCRIPCION": "19/JUL 19/JUL AA7 DEPOSITO EFECTIVO PRACTIC JUL19 16:47 PRAC 4543 FOLIO:5529 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1000.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "19/JUL",
+        "FECHA_LIQ": "19/JUL",
+        "COD_DESCRIPCION": "19/JUL 19/JUL AA7 DEPOSITO EFECTIVO PRACTIC JUL19 16:49 PRAC 4543 FOLIO:5531 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1000.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "19/JUL",
+        "FECHA_LIQ": "19/JUL",
+        "COD_DESCRIPCION": "19/JUL 19/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3537 A612 FOLIO:3533 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1180371.49,
+        "LIQUIDACION": 1180371.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "23/JUL",
+        "FECHA_LIQ": "23/JUL",
+        "COD_DESCRIPCION": "23/JUL 23/JUL N06 PAGO CUENTA DE TERCERO BNET 1526542839 3556 Ref. 0712199777",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "23/JUL",
+        "FECHA_LIQ": "23/JUL",
+        "COD_DESCRIPCION": "23/JUL 23/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3538 4543 FOLIO:8698 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "23/JUL",
+        "FECHA_LIQ": "23/JUL",
+        "COD_DESCRIPCION": "23/JUL 23/JUL T20 SPEI RECIBIDOBANORTE 0240723Num de Solicitud 3562 Ref. 0169970879 072 00072705012149832913  38432P05202407233235753644 BERENICE BARRIOS CASTRO",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1185771.49,
+        "LIQUIDACION": 1185771.49,
+        "NUMERO_CONTROL": "01699708"
+    },
+    {
+        "FECHA_OPER": "24/JUL",
+        "FECHA_LIQ": "24/JUL",
+        "COD_DESCRIPCION": "24/JUL 24/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3561 A612 FOLIO:6656 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "24/JUL",
+        "FECHA_LIQ": "24/JUL",
+        "COD_DESCRIPCION": "24/JUL 24/JUL AA7 DEPOSITO EFECTIVO PRACTIC COLEGIATURA 4541 FOLIO:9293 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "24/JUL",
+        "FECHA_LIQ": "24/JUL",
+        "COD_DESCRIPCION": "24/JUL 24/JUL T20 SPEI RECIBIDOBANORTE 02407243563 Ref. 0173718843 072 00072700004888892722 3843CP06202407243237815358 JEANETTE RAMIRO BARON",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "24/JUL",
+        "FECHA_LIQ": "24/JUL",
+        "COD_DESCRIPCION": "24/JUL 24/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3545 4543 FOLIO:9761 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "24/JUL",
+        "FECHA_LIQ": "24/JUL",
+        "COD_DESCRIPCION": "24/JUL 24/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3566 6052 FOLIO:3680 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1194771.49,
+        "LIQUIDACION": 1194771.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "25/JUL",
+        "FECHA_LIQ": "25/JUL",
+        "COD_DESCRIPCION": "25/JUL 25/JUL AA7 DEPOSITO EFECTIVO PRACTIC PAGO FICHA 4542 FOLIO:0027 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "25/JUL",
+        "FECHA_LIQ": "25/JUL",
+        "COD_DESCRIPCION": "25/JUL 25/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3568 6053 FOLIO:2705 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "25/JUL",
+        "FECHA_LIQ": "25/JUL",
+        "COD_DESCRIPCION": "25/JUL 25/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3569 A612 FOLIO:7101 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1200171.49,
+        "LIQUIDACION": 1200171.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "26/JUL",
+        "FECHA_LIQ": "26/JUL",
+        "COD_DESCRIPCION": "26/JUL 26/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3567 4541 FOLIO:1670 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "26/JUL",
+        "FECHA_LIQ": "26/JUL",
+        "COD_DESCRIPCION": "26/JUL 26/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3572 6052 FOLIO:4610 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "26/JUL",
+        "FECHA_LIQ": "26/JUL",
+        "COD_DESCRIPCION": "26/JUL 26/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3560 B211 FOLIO:1697 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "26/JUL",
+        "FECHA_LIQ": "26/JUL",
+        "COD_DESCRIPCION": "26/JUL 26/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3557 4542 FOLIO:0877 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "26/JUL",
+        "FECHA_LIQ": "26/JUL",
+        "COD_DESCRIPCION": "26/JUL 26/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3573 4542 FOLIO:0965 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "26/JUL",
+        "FECHA_LIQ": "26/JUL",
+        "COD_DESCRIPCION": "26/JUL 26/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3058 4543 FOLIO:1923 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "26/JUL",
+        "FECHA_LIQ": "26/JUL",
+        "COD_DESCRIPCION": "26/JUL 26/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3574 A612 FOLIO:7986 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "26/JUL",
+        "FECHA_LIQ": "29/JUL",
+        "COD_DESCRIPCION": "26/JUL 29/JUL AA7 DEPOSITO EFECTIVO PRACTIC 21690259 4543 FOLIO:2056 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 1214571.49,
+        "LIQUIDACION": 1212771.49,
+        "NUMERO_CONTROL": "21690259"
+    },
+    {
+        "FECHA_OPER": "29/JUL",
+        "FECHA_LIQ": "29/JUL",
+        "COD_DESCRIPCION": "29/JUL 29/JUL AA7 DEPOSITO EFECTIVO PRACTIC 3575 4542 FOLIO:2864 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 1800.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "29/JUL",
+        "FECHA_LIQ": "29/JUL",
+        "COD_DESCRIPCION": "29/JUL 29/JUL C03 CHEQUE PAGADO NO. PAGO EN EFECTIVO Ref. 6491",
+        "CARGOS": 35228.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "29/JUL",
+        "FECHA_LIQ": "29/JUL",
+        "COD_DESCRIPCION": "29/JUL 29/JUL C03 CHEQUE PAGADO NO. RFC CUENTA DE DEPOSITO:DOPF661210-8V3 Ref. 6494",
+        "CARGOS": 20000.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "29/JUL",
+        "FECHA_LIQ": "29/JUL",
+        "COD_DESCRIPCION": "29/JUL 29/JUL C03 CHEQUE PAGADO NO. PAGO EN EFECTIVO Ref. 6492",
+        "CARGOS": 4000.0,
+        "ABONOS": 0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "29/JUL",
+        "FECHA_LIQ": "29/JUL",
+        "COD_DESCRIPCION": "29/JUL 29/JUL C03 CHEQUE PAGADO NO. PAGO EN EFECTIVO Ref. 6493",
+        "CARGOS": 4000.0,
+        "ABONOS": 0,
+        "OPERACION": 1153143.49,
+        "LIQUIDACION": 1153143.49,
+        "NUMERO_CONTROL": "NA"
+    },
+    {
+        "FECHA_OPER": "31/JUL",
+        "FECHA_LIQ": "31/JUL",
+        "COD_DESCRIPCION": "31/JUL 31/JUL AA7 DEPOSITO EFECTIVO PRACTIC  20690488 A612 FOLIO:1605 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 150.0,
+        "OPERACION": 0,
+        "LIQUIDACION": 0,
+        "NUMERO_CONTROL": "20690488"
+    },
+    {
+        "FECHA_OPER": "31/JUL",
+        "FECHA_LIQ": "31/JUL",
+        "COD_DESCRIPCION": "31/JUL 31/JUL AA7 DEPOSITO EFECTIVO PRACTIC 20690531 CONSTANCI 4543 FOLIO:6523 Ref. ******7724",
+        "CARGOS": 0,
+        "ABONOS": 150.0,
+        "OPERACION": 1153443.49,
+        "LIQUIDACION": 1153443.49,
+        "NUMERO_CONTROL": "20690531"
+    }
+]
