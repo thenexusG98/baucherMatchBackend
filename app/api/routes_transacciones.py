@@ -1,4 +1,4 @@
-from fastapi import APIRouter, UploadFile, File, HTTPException, Query
+from fastapi import APIRouter, UploadFile, File, HTTPException, Query, BackgroundTasks
 from fastapi.responses import FileResponse
 from app.utils.utils import pattern_date, phrases_to_ignore, partial_phrases_to_ignore
 
@@ -13,8 +13,18 @@ import re
 
 router  = APIRouter()
 
+def cleanup_files(*file_paths):
+    """Elimina archivos temporales después de ser procesados"""
+    for file_path in file_paths:
+        try:
+            if os.path.exists(file_path):
+                os.remove(file_path)
+                print(f"Archivo eliminado: {file_path}")
+        except Exception as e:
+            print(f"Error al eliminar {file_path}: {e}")
+
 @router.post("/download-pdf")
-async def upload_pdf(file: UploadFile = File(...)):
+async def upload_pdf(file: UploadFile = File(...), background_tasks: BackgroundTasks = None):
     temp_path = f"temp/{file.filename}"
     os.makedirs("temp", exist_ok=True)
 
@@ -30,6 +40,9 @@ async def upload_pdf(file: UploadFile = File(...)):
         execution_time = time.time() - start_time
         
         file_name = temp_path[8:-4].strip().replace(" ", "_")
+        
+        # Programar eliminación de archivos temporales
+        background_tasks.add_task(cleanup_files, temp_path, movimientos)
         
         return {
             "file": FileResponse(
@@ -47,7 +60,7 @@ async def upload_pdf(file: UploadFile = File(...)):
     
 
 @router.post("/download-csv")
-async def upload_csv(file: UploadFile = File(...)):
+async def upload_csv(file: UploadFile = File(...), background_tasks: BackgroundTasks = None):
 
     temp_path = f"temp/{file.filename}"
     os.makedirs("temp", exist_ok=True)
@@ -84,6 +97,9 @@ async def upload_csv(file: UploadFile = File(...)):
         else:
             raise HTTPException(status_code=422, detail="El archivo JSON no contiene datos válidos para CSV.")
 
+        # Programar eliminación de archivos temporales
+        background_tasks.add_task(cleanup_files, temp_path, movimientos_json_path, csv_path)
+
         response = FileResponse(
             csv_path,
             filename=f"{file_name}.csv",
@@ -105,6 +121,7 @@ async def upload_csv(file: UploadFile = File(...)):
 @router.post("/extract-partial-json")
 async def extract_transactions_json(
     file: UploadFile = File(...),
+    background_tasks: BackgroundTasks = None,
     output_format: str = Query("json", description="Formato de salida: ndjson o json", regex="^(ndjson|json)$")
 ):
     """
@@ -242,6 +259,10 @@ async def extract_transactions_json(
             array_path = f"temp/{file_name}_transactions_array.json"
             with open(array_path, "w", encoding="utf-8") as jf:
                 json.dump(results, jf, ensure_ascii=False, indent=2)
+            
+            # Programar eliminación de archivos temporales
+            background_tasks.add_task(cleanup_files, temp_path, array_path)
+            
             return FileResponse(
                 array_path,
                 filename=f"{file_name}_transactions.json",
@@ -252,6 +273,10 @@ async def extract_transactions_json(
             with open(ndjson_path, "w", encoding="utf-8") as out_f:
                 for obj in results:
                     out_f.write(json.dumps(obj, ensure_ascii=False) + "\n")
+            
+            # Programar eliminación de archivos temporales
+            background_tasks.add_task(cleanup_files, temp_path, ndjson_path)
+            
             return FileResponse(
                 ndjson_path,
                 filename=f"{file_name}_transactions.json",
@@ -267,7 +292,8 @@ async def extract_transactions_json(
 
 @router.post("/extract-partial-csv")
 async def extract_transactions_csv(
-    file: UploadFile = File(...)
+    file: UploadFile = File(...),
+    background_tasks: BackgroundTasks = None
 ):
     """
     Extrae transacciones de un PDF de estado de cuenta bancario y retorna un archivo CSV.
@@ -422,6 +448,9 @@ async def extract_transactions_csv(
             raise HTTPException(status_code=422, detail="No se encontraron transacciones en el PDF.")
         
         execution_time = time.time() - start_time
+        
+        # Programar eliminación de archivos temporales
+        background_tasks.add_task(cleanup_files, temp_path, csv_path)
         
         response = FileResponse(
                 csv_path,
