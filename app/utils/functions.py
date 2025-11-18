@@ -52,7 +52,9 @@ def extract_fields(text):
         #Encuentra el numero de control y lo agrega en json
         match_control_number = re.search(r"([CBM])?(\d{2,3})69(\d{3,5})", description)
         if match_control_number:
-          control_number = match_control_number.group(0)
+          letra = match_control_number.group(1) if match_control_number.group(1) else ""
+          resultado = letra + match_control_number.group(2) + "69" + match_control_number.group(3)
+          control_number = resultado
         else:
           control_number = "NA"
             
@@ -73,7 +75,9 @@ def extract_fields(text):
     elif "SPEI RECIBIDO" in description.upper():
         match_control_number = re.search(r"([CBM])?(\d{2,3})69(\d{3,5})", description)
         if match_control_number:
-          control_number = match_control_number.group(0)
+          letra = match_control_number.group(1) if match_control_number.group(1) else ""
+          resultado = letra + match_control_number.group(2) + "69" + match_control_number.group(3)
+          control_number = resultado
         else:
           control_number = "NA"
 
